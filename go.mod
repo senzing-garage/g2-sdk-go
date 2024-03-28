@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/aquilax/truncate v1.0.0
-	github.com/senzing-garage/g2-sdk-json-type-definition v0.2.1
+	github.com/senzing-garage/g2-sdk-json-type-definition v0.2.2
 	github.com/senzing-garage/go-observing v0.3.0
 	github.com/stretchr/testify v1.9.0
 )

@@ -21,8 +21,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/rogpeppe/go-internal v1.6.1/go.mod h1:xXDCJY+GAPziupqXw64V24skbSoqbTEfhy4qGm1nDQc=
 github.com/rogpeppe/go-internal v1.10.0 h1:TMyTOH3F/DB16zRVcYyreMH6GnZZrwQVAoYjRBZyWFQ=
 github.com/rogpeppe/go-internal v1.10.0/go.mod h1:UQnix2H7Ngw/k4C5ijL5+65zddjncjaFoBhdsK/akog=
-github.com/senzing-garage/g2-sdk-json-type-definition v0.2.1 h1:K+q65qpUEU1Pmq57husgt4u3Hp/aX5QuX1kNeqcpjvM=
-github.com/senzing-garage/g2-sdk-json-type-definition v0.2.1/go.mod h1:tL1JoqR3GiwiPUrSm1is/sPBwHmYlxz9Jsv/3yHINqM=
+github.com/senzing-garage/g2-sdk-json-type-definition v0.2.2 h1:OAQiApkDJK66lQXR2U4WqhOvciI7SsyVIRV7ViEHRco=
+github.com/senzing-garage/g2-sdk-json-type-definition v0.2.2/go.mod h1:3KR6IE9YWgyIqktwVbEd53UvVkGZ0dkUIJKuJQmtp7U=
 github.com/senzing-garage/go-observing v0.3.0 h1:uWKZtiW4dwQJx8i7Y+7QrdrBJ8NPSOTZu2+6q0gy1DI=
 github.com/senzing-garage/go-observing v0.3.0/go.mod h1:Bxl4c7G9hQ8iqSxZp/omolUhmkEdrbCzLt0s0VkPdnw=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
